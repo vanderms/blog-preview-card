@@ -4,7 +4,7 @@
 <main>
   <div class="w-fit mx-auto">
     <article
-      class="card max-w-96 mx-6 bg-neutral-000 p-6 my-[9.75rem] rounded-[1.25rem] sm:my-[13.6563rem]"
+      class="card max-w-96 mx-6 bg-neutral-000 p-[1.4375rem] border border-neutral-900 my-[9.75rem] rounded-[1.25rem] sm:my-[13.6563rem]"
     >
       <figure>
         <img
@@ -20,7 +20,7 @@
           <span class="sr-only">Theme: </span>Learning
         </p>
         <p class="mt-3 text-neutral-900 body-sm">
-          Published <time datetime="12-21-2023">21 Dec 2023</time>
+          Published <time datetime="2023-12-21">21 Dec 2023</time>
         </p>
         <h2 class="mt-3 heading-md text-neutral-900">HTML & CSS foundations</h2>
         <p class="mt-3 body-md text-neutral-600">
